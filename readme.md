@@ -1,5 +1,5 @@
 ## Spring Boot
- - Tówj pierszy mikroserwis < 140 znaków
+ - Twój pierszy mikroserwis < 140 znaków
  - Interfejs linii kolemnd i [Groovy Version Manager](http://gvmtool.net/)
  - [Spring Boot Initializer](http://start.spring.io/)
     - hello
