@@ -1,6 +1,6 @@
 ## Spring Boot
  - Tówj pierszy mikroserwis < 140 znaków
- - Interfejs linii kolemnd i [Groovy Version Manager](http://gvmtool.net/)
+ - Interfejs linii komend i [Groovy Version Manager](http://gvmtool.net/)
  - [Spring Boot Initializer](http://start.spring.io/)
     - hello
  - Spring Boot [Starter Maven POMs](http://docs.spring.io/spring-boot/docs/1.1.9.RELEASE/reference/htmlsingle/#using-boot-starter-poms)
